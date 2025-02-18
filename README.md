@@ -114,4 +114,3 @@ O conteúdo deste projeto é fornecido pela Meta através do Coursera. Todas as 
 
 ---
 *Este README é parte da minha jornada de aprendizado através do programa de Certificado Profissional Meta Front-End Developer.*
->>>>>>> fca05fb (Adicionando conteúdo do curso Meta Front-End Developer)
