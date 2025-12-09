@@ -1,9 +1,9 @@
 # Certificado Profissional Meta Front-End Developer
 
 
-Este repositório contém minha jornada através do programa de Certificado Profissional Meta Front-End Developer, um currículo abrangente desenvolvido pelos especialistas em engenharia de software da Meta para preparar profissionais para uma carreira como desenvolvedor front-end.
+Este repositório contém a jornada através do programa de Certificado Profissional Meta Front-End Developer, um currículo abrangente desenvolvido pelos especialistas em engenharia de software da Meta para preparar profissionais para uma carreira como desenvolvedor front-end.
 
-## 🎓 Certificado
+## Certificado
 
 ![Certificado Meta Front-End Developer](Meta%20Front-End%20Developer.png)
 
@@ -11,7 +11,7 @@ Este repositório contém minha jornada através do programa de Certificado Prof
 
 O Certificado Profissional Meta Front-End Developer é um programa de treinamento profissional criado pela Meta (anteriormente Facebook) para preparar estudantes para uma carreira em desenvolvimento front-end. Este programa oferece experiência prática com as mais recentes tecnologias web e ferramentas padrão da indústria utilizadas na Meta e outras empresas de tecnologia.
 
-## 🎯 O Que Você Vai Aprender
+## O Que se Vai Aprender
 
 Ao longo deste programa de certificação, você adquirirá experiência em:
 
@@ -23,7 +23,7 @@ Ao longo deste programa de certificação, você adquirirá experiência em:
 - Aplicação de princípios de design UX/UI
 - Desenvolvimento de projetos do mundo real
 
-## 📚 Estrutura do Curso
+## Estrutura do Curso
 
 O certificado é composto por 9 cursos:
 
@@ -72,7 +72,7 @@ O certificado é composto por 9 cursos:
    - Algoritmos
    - Estratégias para entrevistas técnicas
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - HTML5
 - CSS3
@@ -84,15 +84,8 @@ O certificado é composto por 9 cursos:
 - Figma
 - Jest (Testes)
 
-## 💼 Oportunidades de Carreira
 
-Ao concluir, os graduados ganham acesso a:
-- Quadro de Empregos dos Programas de Carreira Meta
-- Rede de mais de 200 parceiros contratantes
-- Recursos de suporte à carreira
-- Portfólio profissional de projetos
-
-## 📁 Estrutura do Repositório
+## Estrutura do Repositório
 
 O repositório segue a estrutura do curso, com diretórios dedicados para cada curso contendo:
 - Materiais de aula
@@ -101,16 +94,7 @@ O repositório segue a estrutura do curso, com diretórios dedicados para cada c
 - Recursos adicionais
 - Materiais de avaliação
 
-## 🤝 Agradecimentos
 
-Agradecimentos especiais a:
-- Equipe de engenharia de software da Meta
-- Instrutores e mentores do curso
-- Plataforma Coursera
-
-## 📄 Licença
+## Licença
 
 O conteúdo deste projeto é fornecido pela Meta através do Coursera. Todas as marcas registradas e propriedade intelectual de terceiros referenciadas permanecem propriedade de seus respectivos donos.
-
----
-*Este README é parte da minha jornada de aprendizado através do programa de Certificado Profissional Meta Front-End Developer.*
