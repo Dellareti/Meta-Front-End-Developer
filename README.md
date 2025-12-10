@@ -7,11 +7,11 @@ Este repositório contém a jornada através do programa de Certificado Profissi
 
 ![Certificado Meta Front-End Developer](Meta%20Front-End%20Developer.png)
 
-## 📋 Sobre o Programa
+## Sobre o Programa
 
 O Certificado Profissional Meta Front-End Developer é um programa de treinamento profissional criado pela Meta (anteriormente Facebook) para preparar estudantes para uma carreira em desenvolvimento front-end. Este programa oferece experiência prática com as mais recentes tecnologias web e ferramentas padrão da indústria utilizadas na Meta e outras empresas de tecnologia.
 
-## O Que se Vai Aprender
+## O Que se vai Aprender
 
 Ao longo deste programa de certificação, você adquirirá experiência em:
 
