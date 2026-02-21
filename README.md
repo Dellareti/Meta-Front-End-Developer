@@ -1,78 +1,77 @@
-# Certificado Profissional Meta Front-End Developer
+# Meta Front-End Developer Professional Certificate
 
+This repository contains the journey through the Meta Front-End Developer Professional Certificate program, a comprehensive curriculum developed by Meta's software engineering experts to prepare professionals for a career as a front-end developer.
 
-Este repositório contém a jornada através do programa de Certificado Profissional Meta Front-End Developer, um currículo abrangente desenvolvido pelos especialistas em engenharia de software da Meta para preparar profissionais para uma carreira como desenvolvedor front-end.
+## Certificate
 
-## Certificado
+![Meta Front-End Developer Certificate](Meta%20Front-End%20Developer.png)
 
-![Certificado Meta Front-End Developer](Meta%20Front-End%20Developer.png)
+## About the Program
 
-## Sobre o Programa
+The Meta Front-End Developer Professional Certificate is a professional training program created by Meta (formerly Facebook) to prepare students for a career in front-end development. This program offers hands-on experience with the latest web technologies and industry-standard tools used at Meta and other tech companies.
 
-O Certificado Profissional Meta Front-End Developer é um programa de treinamento profissional criado pela Meta (anteriormente Facebook) para preparar estudantes para uma carreira em desenvolvimento front-end. Este programa oferece experiência prática com as mais recentes tecnologias web e ferramentas padrão da indústria utilizadas na Meta e outras empresas de tecnologia.
+## What You Will Learn
 
-## O Que se vai Aprender
+Throughout this certification program, you will gain experience in:
 
-Ao longo deste programa de certificação, você adquirirá experiência em:
+- Building interactive web pages using HTML5, CSS and JavaScript
+- Creating professional layouts with Bootstrap and React
+- Using version control with Git and GitHub
+- Designing user interfaces with Figma
+- Preparing for technical interviews
+- Applying UX/UI design principles
+- Developing real-world projects
+  
+## Course Structure
 
-- Construção de páginas web interativas usando HTML5, CSS e JavaScript
-- Criação de layouts profissionais com Bootstrap e React
-- Uso de controle de versão com Git e GitHub
-- Design de interfaces de usuário com Figma
-- Preparação para entrevistas técnicas
-- Aplicação de princípios de design UX/UI
-- Desenvolvimento de projetos do mundo real
+The certificate is made up of 9 courses:
 
-## Estrutura do Curso
-
-O certificado é composto por 9 cursos:
-
-1. **Introdução ao Desenvolvimento Front-End**
-   - Fundamentos do desenvolvimento web
-   - Conceitos básicos de HTML e CSS
-   - Frameworks de UI
+1. **Introduction to Front-End Development**
+   - Web development fundamentals
+   - Basic HTML and CSS concepts
+   - UI frameworks
    
-2. **Programação com JavaScript**
-   - Fundamentos de JavaScript
-   - Arrays, objetos e funções
-   - Testes e depuração
+2. **Programming with JavaScript**
+   - JavaScript fundamentals
+   - Arrays, objects and functions
+   - Testing and debugging
    
-3. **Controle de Versão**
-   - Básico do Git
-   - Fluxos de trabalho colaborativo
-   - Recursos do GitHub
+3. **Version Control**
+   - Git basics
+   - Collaborative workflows
+   - GitHub features
    
-4. **HTML e CSS em Profundidade**
-   - Conceitos avançados de HTML
-   - Layouts e estilização CSS
-   - Design responsivo
+4. **HTML and CSS in Depth**
+   - Advanced HTML concepts
+   - CSS layouts and styling
+   - Responsive design
    
-5. **Fundamentos do React**
-   - Componentes React
-   - Estado e props
-   - Navegação e recursos
+5. **React Basics**
+   - React components
+   - State and props
+   - Navigation and features
    
-6. **React Avançado**
-   - Componentes complexos
-   - Hooks e hooks customizados
-   - Testando aplicações React
+6. **Advanced React**
+   - Complex components
+   - Hooks and custom hooks
+   - Testing React applications
    
-7. **Princípios de Design UX/UI**
-   - Fundamentos de design
-   - Princípios de experiência do usuário
-   - Design de interface
+7. **UX/UI Design Principles**
+   - Design fundamentals
+   - User experience principles
+   - Interface design
    
-8. **Projeto Final de Desenvolvimento Front-End**
-   - Implementação de projeto real
-   - Desenvolvimento completo de aplicação
-   - Peça para portfólio profissional
+8. **Front-End Developer Capstone**
+   - Real-world project implementation
+   - Full application development
+   - Professional portfolio piece
    
-9. **Preparação para Entrevista de Programação**
-   - Estruturas de dados
-   - Algoritmos
-   - Estratégias para entrevistas técnicas
-
-## Tecnologias Utilizadas
+9. **Coding Interview Preparation**
+   - Data structures
+   - Algorithms
+   - Technical interview strategies
+     
+## Technologies Used
 
 - HTML5
 - CSS3
@@ -82,19 +81,14 @@ O certificado é composto por 9 cursos:
 - GitHub
 - Bootstrap
 - Figma
-- Jest (Testes)
+- Jest (Testing)
+  
+## Repository Structure
 
+The repository follows the course structure, with dedicated directories for each course containing:
 
-## Estrutura do Repositório
-
-O repositório segue a estrutura do curso, com diretórios dedicados para cada curso contendo:
-- Materiais de aula
-- Exercícios e soluções
-- Projetos
-- Recursos adicionais
-- Materiais de avaliação
-
-
-## Licença
-
-O conteúdo deste projeto é fornecido pela Meta através do Coursera. Todas as marcas registradas e propriedade intelectual de terceiros referenciadas permanecem propriedade de seus respectivos donos.
+- Lesson materials
+- Exercises and solutions
+- Projects
+- Additional resources
+- Assessment materials
